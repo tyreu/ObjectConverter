@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>Mds.Libraries.CSharp.Flatter</AssemblyName>
+    <RootNamespace>Mds.Libraries.CSharp.Flatter</RootNamespace>
+    <LangVersion>7.1</LangVersion>
+    <Version>1.0.0</Version>
+    <Authors>MedvedStudio</Authors>
+    <PackageIconUrl>https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2020/Jan/09/488764475-1-mds.libraries.csharp.flatter-logo_avatar.png</PackageIconUrl>
+    <PackageDescription></PackageDescription>
+    <Copyright>2A LLC</Copyright>
+    <RepositoryUrl>https://bitbucket.org/medvedstudio/mds.libraries.csharp.flatter/src/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
